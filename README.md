@@ -1,6 +1,5 @@
 <div align="center">
-    <img src="images/BR²-logos.inv.png#gh-light-mode-only" height="350" />
-    <img src="images/BR²-logos.inv-dark-theme.png#gh-dark-mode-only" height="350" />
+    <img src="images/github_banner2.png" alt="GitHub profile banner" width="100%" />
 </div>
 
 <br/>
