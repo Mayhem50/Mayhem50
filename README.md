@@ -9,7 +9,7 @@
 I like challenges, people I met and my job.</p>
 
 
-<p>And you already know this, I like BEER!! <img style="vertical-align:bottom" width="40" src="images/beer_icon.png" alt="Beer icon"></p>
+<p>And you already know this, I like BEER!! <img style="vertical-align:bottom" width="56" src="images/beer_icon.png" alt="Beer icon"></p>
 
 <br/>
 
